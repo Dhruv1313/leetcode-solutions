@@ -1,6 +1,6 @@
 # 📝 62. Unique Paths (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/unique-paths)
+🔗 [Problem Link](https://leetcode.com/problems/unique-paths/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math, Dynamic Programming, Combinatorics
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 42.3 MB
 
 ---
 
