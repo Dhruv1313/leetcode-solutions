@@ -1,6 +1,6 @@
 # 📝 91. Decode Ways (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/decode-ways/?envType=problem-list-v2&envId=dynamic-programming)
+🔗 [Problem Link](https://leetcode.com/problems/decode-ways/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 43.1 MB
 
 ---
 
