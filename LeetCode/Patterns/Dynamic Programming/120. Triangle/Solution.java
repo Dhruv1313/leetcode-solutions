@@ -1,16 +1,15 @@
 class Solution {
-    int[][] dp;
+    Integer[][] dp;
     public int minimumTotal(List<List<Integer>> triangle) {
         int rows = triangle.size();
-        dp= new int[rows][rows];
-        for(int[] row : dp)
-        Arrays.fill(row,-1);
+        dp= new Integer[rows][rows];
+        
         return solve(triangle, 0,0);
     }
     private int solve(List<List<Integer>> triangle , int row, int col){
         if (row == triangle.size()-1)
         return triangle.get(row).get(col);
-        if (dp[row][col] != -1)
+        if (dp[row][col] != null)
         return dp[row][col];
         int top = solve(triangle,row+1,col);
         int diagonal = solve(triangle,row+1,col+1);
