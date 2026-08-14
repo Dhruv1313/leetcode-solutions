@@ -1,6 +1,6 @@
 # 📝 572. Subtree of Another Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/subtree-of-another-tree)
+🔗 [Problem Link](https://leetcode.com/problems/subtree-of-another-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
