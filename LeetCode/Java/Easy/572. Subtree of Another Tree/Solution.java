@@ -21,7 +21,7 @@ class Solution {
         return false;
         if (isSameTree(root,subRoot))
         return true;
-        return isSameTree(root.left,subRoot) || isSameTree(root.right,subRoot);
+        return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
 
     }
     private boolean isSameTree(TreeNode root , TreeNode subRoot){
