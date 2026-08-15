@@ -8,8 +8,8 @@
 String, Greedy, Counting
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 42.6 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
