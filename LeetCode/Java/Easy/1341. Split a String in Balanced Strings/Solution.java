@@ -1,16 +1,16 @@
 class Solution {
     public int balancedStringSplit(String s) {
+        int balance = 0;
         int count = 0;
-        int result = 0;
-        for(char c: s.toCharArray()){
-            if (c == 'R'){
-                count++; 
+        for(char ch: s.toCharArray()){
+            if (ch == 'R'){
+                balance++;
             } else {
-                count--;
-         }
-            if (count ==0)
-              result++;
+                balance--;
+            } if (balance == 0){
+                count++;
+            }
         }
-        return result;
+        return count;
     }
 }
