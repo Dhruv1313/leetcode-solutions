@@ -6,7 +6,8 @@ class Solution {
             long sum = left*left + right*right;
             if (sum ==c){
                 return true;
-            } else if (sum <c){
+            } 
+             if (sum <c){
                 left++;
             } else {
                 right--;
