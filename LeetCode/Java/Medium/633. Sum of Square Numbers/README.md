@@ -8,7 +8,7 @@
 Math, Two Pointers, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** 49 ms
+- **Runtime:** 4 ms
 - **Memory:** 41.9 MB
 
 ---
