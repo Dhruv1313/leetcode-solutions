@@ -1,6 +1,6 @@
 # 📝 633. Sum of Square Numbers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sum-of-square-numbers/)
+🔗 [Problem Link](https://leetcode.com/problems/sum-of-square-numbers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
