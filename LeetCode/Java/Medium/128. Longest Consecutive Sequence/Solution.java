@@ -11,8 +11,7 @@ class Solution {
 
         for (int num : set) {
 
-            // Only start counting if num is the beginning
-            // of a sequence
+            
             if (!set.contains(num - 1)) {
 
                 int current = num;
